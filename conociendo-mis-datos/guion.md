@@ -1,4 +1,4 @@
-# Conociendo tus Datos (EDA)
+# Conociendo mis Datos (EDA)
 
 ---
 
