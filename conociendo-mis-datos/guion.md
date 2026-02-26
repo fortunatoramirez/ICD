@@ -83,6 +83,8 @@ https://archive.ics.uci.edu/datasets
 
 ## 4. Desarrollo de la Práctica
 
+* Los pasos para el desarrollo de la Práctica se describen a continuación. Y en el archivo [Practica_Conociendo_tus_datos](Practica_Conociendo_tus_datos.ipynb) se desglosa a manera de ejemplo parte del procedimiento. Se recomienda realizar los pasos y el análisis para el dataset que se incluye y posteriormente elegir un dataset que ustedes deseen analizar.
+
 ---
 
 # Parte I — Carga y Limpieza de Datos
